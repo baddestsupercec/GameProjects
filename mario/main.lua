@@ -12,7 +12,7 @@
     a side perspective, where jumping onto enemies inflicts damage and
     jumping up into blocks typically breaks them or reveals a powerup.
 
-    Art pack:
+    Art pack: 
     https://opengameart.org/content/kenney-16x16
 
     Music:
