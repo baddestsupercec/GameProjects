@@ -8,7 +8,7 @@
  
 require 'src/Dependencies'
 
-function love.load()
+function love.load() 
     math.randomseed(os.time())
     love.window.setTitle('Legend of Zelda')
     love.graphics.setDefaultFilter('nearest', 'nearest')
